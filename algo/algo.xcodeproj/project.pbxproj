@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0677A5B81BE541C90019782D /* 19validParenthese.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0677A5B71BE541C90019782D /* 19validParenthese.cpp */; };
+		06568A4A1BF542AE0080BFCF /* 35SearchInsertPosition.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06568A491BF542AE0080BFCF /* 35SearchInsertPosition.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0677A5B71BE541C90019782D /* 19validParenthese.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 19validParenthese.cpp; path = algo/19validParenthese.cpp; sourceTree = "<group>"; };
+		06568A491BF542AE0080BFCF /* 35SearchInsertPosition.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 35SearchInsertPosition.cpp; path = algo/35SearchInsertPosition.cpp; sourceTree = "<group>"; };
 		06BC6D9C1BC127A20082CB0D /* algo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algo; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		06BC6D931BC127A20082CB0D = {
 			isa = PBXGroup;
 			children = (
-				0677A5B71BE541C90019782D /* 19validParenthese.cpp */,
+				06568A491BF542AE0080BFCF /* 35SearchInsertPosition.cpp */,
 				06BC6D9E1BC127A20082CB0D /* algo */,
 				06BC6D9D1BC127A20082CB0D /* Products */,
 			);
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0677A5B81BE541C90019782D /* 19validParenthese.cpp in Sources */,
+				06568A4A1BF542AE0080BFCF /* 35SearchInsertPosition.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
