@@ -9,6 +9,8 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
+#include <vector>
+#include <cstdlib>
 using namespace std;
 
 void QuickSort(double e[], int first, int end)
@@ -36,7 +38,19 @@ int main()
     return 0;
 }
 
-
+vector<string> split(string temps)
+{
+    vector<string> num;
+    int pos=0;
+    while(1)
+    {
+        int nextpos=temps.find(' ',pos);
+        num.push_back(temps.substr(pos,nextpos-pos+1));
+        if(nextpos==-1) break;
+        pos=nextpos+1;
+    }
+    return num;
+}
 
 
 
