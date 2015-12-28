@@ -9,6 +9,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
+#include <sstream>
 #include <vector>
 #include <cstdlib>
 using namespace std;
@@ -52,7 +53,7 @@ vector<string> split(string temps)
     return num;
 }
 
-
+int toInt(string s){stringstream ss;ss<<s;int res;ss>>res;return res; }
 
 
 

@@ -1,0 +1,116 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ListNode	141LinkedListCycle.cpp	/^         ListNode(int x) : val(x), next(NULL) {}$/;"	f	struct:ListNode
+ListNode	141LinkedListCycle.cpp	/^struct ListNode {$/;"	s	file:
+ListNode	142LinkedListCycle2.cpp	/^         ListNode(int x) : val(x), next(NULL) {}$/;"	f	struct:ListNode
+ListNode	142LinkedListCycle2.cpp	/^struct ListNode {$/;"	s	file:
+ListNode	18removeNthNodeFromEndOfList.cpp	/^         ListNode(int x) : val(x), next(NULL) {}$/;"	f	struct:ListNode
+ListNode	18removeNthNodeFromEndOfList.cpp	/^struct ListNode {$/;"	s	file:
+ListNode	2-addTwoSum.cpp	/^         ListNode(int x) : val(x), next(NULL) {}$/;"	f	struct:ListNode
+ListNode	2-addTwoSum.cpp	/^struct ListNode {$/;"	s	file:
+Point	149MaxPointsOnALine.cpp	/^         Point() : x(0), y(0) {}$/;"	f	struct:Point
+Point	149MaxPointsOnALine.cpp	/^         Point(int a, int b) : x(a), y(b) {}$/;"	f	struct:Point
+Point	149MaxPointsOnALine.cpp	/^struct Point {$/;"	s	file:
+QuickSort	QuickSort.cpp	/^void QuickSort(double e[], int first, int end)$/;"	f
+Reverse	7-Reverse Integer.cpp	/^int Reverse (int x){$/;"	f
+addTwoNumbers	2-addTwoSum.cpp	/^ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {$/;"	f
+calculateMinimumHP	174DungeonGame.cpp	/^int calculateMinimumHP(vector<vector<int>>& dungeon) {$/;"	f
+combin	39CombinationSum.cpp	/^void combin(vector<vector<int>>& res,vector<int>now,vector<int> candidates,int target)$/;"	f
+combin	40CombinationSum2.cpp	/^void combin(vector<vector<int>>& res,vector<int>now,vector<int> candidates,int target)$/;"	f
+combination	77Combinations.cpp	/^void combination(vector<vector<int>> &res,vector<int> now,int currentn,int n,int currentk,int k)$/;"	f
+combinationSum	39CombinationSum.cpp	/^vector<vector<int>> combinationSum(vector<int>& candidates, int target) {$/;"	f
+combinationSum	40CombinationSum2.cpp	/^vector<vector<int>> combinationSum(vector<int>& candidates, int target) {$/;"	f
+combine	77Combinations.cpp	/^vector<vector<int>> combine(int n, int k) {$/;"	f
+convert	6-ZigZag.cpp	/^string convert(string s, int numRows) {$/;"	f
+countAndSay	38CountAndSay.cpp	/^string countAndSay(int n) {$/;"	f
+detectCycle	142LinkedListCycle2.cpp	/^ListNode *detectCycle(ListNode *head) {$/;"	f
+divide	30DivideTwoIntegers.cpp	/^int divide(int dividend, int divisor) {$/;"	f
+findDuplicate	287FindTheDuplicateNumber.cpp	/^int findDuplicate(vector<int>& nums) {$/;"	f
+firstMissingPositive	41FirstMissingPositive.cpp	/^int firstMissingPositive(vector<int>& nums) {$/;"	f
+generateParenthesis	22GenerateParentheses.cpp	/^vector<string> generateParenthesis(int n) {$/;"	f
+hasCycle	141LinkedListCycle.cpp	/^bool hasCycle(ListNode *head) {$/;"	f
+hasCycle	142LinkedListCycle2.cpp	/^bool hasCycle(ListNode *head) {$/;"	f
+intToRoman	12IntergerToRoman.cpp	/^string intToRoman(int num) {$/;"	f
+isPalindrome	9-PalindromeNumber.cpp	/^bool isPalindrome(int x)$/;"	f
+isValid	19validParenthese.cpp	/^bool isValid(string s) {$/;"	f
+isValidSudoku	36ValidSudoku.cpp	/^bool isValidSudoku(vector<vector<char>>& board) {$/;"	f
+lengthOfLongestSubstring	5-lengthOfLongestSubtring.cpp	/^string lengthOfLongestSubstring(string s) {$/;"	f
+letter	17LetterCombinations.cpp	/^void letter(string digits,vector<string>& res,int number,string s) {$/;"	f
+letterCombinations	17LetterCombinations.cpp	/^vector<string> letterCombinations(string digits) {$/;"	f
+longestCommonPrefix	14LongestCommonPrefix.cpp	/^string longestCommonPrefix(vector<string>& strs) {$/;"	f
+lookMaxStrFromCenter	5-lengthOfLongestSubtring.cpp	/^string lookMaxStrFromCenter(string s,int c1,int c2)$/;"	f
+main	1-TwoSum.cpp	/^int main()$/;"	f
+main	11-Container.cpp	/^int main()$/;"	f
+main	121BestTimeToBuy.cpp	/^int main()$/;"	f
+main	122BestTimeToBuy2.cpp	/^int main()$/;"	f
+main	123BestTimeToBuy3.cpp	/^int main()$/;"	f
+main	12IntergerToRoman.cpp	/^int main()$/;"	f
+main	13romanToInt.cpp	/^int main()$/;"	f
+main	141LinkedListCycle.cpp	/^int main()$/;"	f
+main	142LinkedListCycle2.cpp	/^int main()$/;"	f
+main	149MaxPointsOnALine.cpp	/^int main()$/;"	f
+main	14LongestCommonPrefix.cpp	/^int main()$/;"	f
+main	15-3sum.cpp	/^int main()$/;"	f
+main	16-3sumcloset.cpp	/^int main()$/;"	f
+main	174DungeonGame.cpp	/^int main()$/;"	f
+main	17LetterCombinations.cpp	/^int main()$/;"	f
+main	18removeNthNodeFromEndOfList.cpp	/^int main()$/;"	f
+main	19validParenthese.cpp	/^int main()$/;"	f
+main	2-addTwoSum.cpp	/^int main()$/;"	f
+main	201BitwiseAndOfNumbersRnage.cpp	/^int main()$/;"	f
+main	22GenerateParentheses.cpp	/^int main()$/;"	f
+main	26RemoveDuplicatesFromSortedArray.cpp	/^int main()$/;"	f
+main	27RemoveElement.cpp	/^int main()$/;"	f
+main	287FindTheDuplicateNumber.cpp	/^int main()$/;"	f
+main	29Implement_strStr().cpp	/^int main()$/;"	f
+main	30DivideTwoIntegers.cpp	/^int main()$/;"	f
+main	34SearchForARange.cpp	/^int main()$/;"	f
+main	35SearchInsertPosition.cpp	/^int main()$/;"	f
+main	36ValidSudoku.cpp	/^int main()$/;"	f
+main	38CountAndSay.cpp	/^int main()$/;"	f
+main	39CombinationSum.cpp	/^int main()$/;"	f
+main	40CombinationSum2.cpp	/^int main()$/;"	f
+main	41FirstMissingPositive.cpp	/^int main()$/;"	f
+main	5-lengthOfLongestSubtring.cpp	/^int main()$/;"	f
+main	6-ZigZag.cpp	/^int main()$/;"	f
+main	7-Reverse Integer.cpp	/^int main()$/;"	f
+main	77Combinations.cpp	/^int main()$/;"	f
+main	8-myAtoi.cpp	/^int main()$/;"	f
+main	9-PalindromeNumber.cpp	/^int main()$/;"	f
+main	QuickSort.cpp	/^int main()$/;"	f
+maxArea	11-Container.cpp	/^int maxArea(vector<int>& height) {$/;"	f
+maxPoints	149MaxPointsOnALine.cpp	/^int maxPoints(vector<Point>& points) {$/;"	f
+maxProfit	121BestTimeToBuy.cpp	/^int maxProfit(vector<int>& prices) {$/;"	f
+maxProfit	122BestTimeToBuy2.cpp	/^int maxProfit(vector<int>& prices) {$/;"	f
+maxProfit	123BestTimeToBuy3.cpp	/^int maxProfit(vector<int>& prices) {$/;"	f
+myAtoi	8-myAtoi.cpp	/^int myAtoi(string str) {$/;"	f
+next	141LinkedListCycle.cpp	/^         ListNode *next;$/;"	m	struct:ListNode	file:
+next	142LinkedListCycle2.cpp	/^         ListNode *next;$/;"	m	struct:ListNode	file:
+next	18removeNthNodeFromEndOfList.cpp	/^         ListNode *next;$/;"	m	struct:ListNode	file:
+next	2-addTwoSum.cpp	/^         ListNode *next;$/;"	m	struct:ListNode	file:
+parenthes	22GenerateParentheses.cpp	/^void parenthes(vector<string>& res,string s,int leftNumber,int floor,int max)$/;"	f
+rangeBitwiseAnd	201BitwiseAndOfNumbersRnage.cpp	/^int rangeBitwiseAnd(int m, int n) {$/;"	f
+removeDuplicates	26RemoveDuplicatesFromSortedArray.cpp	/^int removeDuplicates(vector<int>& nums) {$/;"	f
+removeElement	27RemoveElement.cpp	/^int removeElement(vector<int>& nums, int val) {$/;"	f
+removeNthFromEnd	18removeNthNodeFromEndOfList.cpp	/^ListNode* removeNthFromEnd(ListNode* head, int n) {$/;"	f
+romanToInt	13romanToInt.cpp	/^int romanToInt(string s)$/;"	f
+searchInsert	35SearchInsertPosition.cpp	/^int searchInsert(vector<int>& nums, int target) {$/;"	f
+searchRange	34SearchForARange.cpp	/^vector<int> searchRange(vector<int>& nums, int target) {$/;"	f
+searchbin	34SearchForARange.cpp	/^int searchbin(vector<int>& nums,int low, int high,int target)$/;"	f
+searchbin	35SearchInsertPosition.cpp	/^int searchbin(vector<int>& nums,int low, int high,int target)$/;"	f
+split	QuickSort.cpp	/^vector<string> split(string temps)$/;"	f
+strStr	29Implement_strStr().cpp	/^int strStr(string haystack, string needle) {$/;"	f
+threeSum	15-3sum.cpp	/^vector<vector<int>> threeSum(vector<int>& nums) {$/;"	f
+threeSumClosest	16-3sumcloset.cpp	/^int threeSumClosest(vector<int>& nums,int target) {$/;"	f
+toInt	QuickSort.cpp	/^int toInt(string s){stringstream ss;ss<<s;int res;ss>>res;return res; }$/;"	f
+twoSum	1-TwoSum.cpp	/^vector<int> twoSum(vector<int>& nums, int target) $/;"	f
+val	141LinkedListCycle.cpp	/^         int val;$/;"	m	struct:ListNode	file:
+val	142LinkedListCycle2.cpp	/^         int val;$/;"	m	struct:ListNode	file:
+val	18removeNthNodeFromEndOfList.cpp	/^         int val;$/;"	m	struct:ListNode	file:
+val	2-addTwoSum.cpp	/^    int val;$/;"	m	struct:ListNode	file:
+x	149MaxPointsOnALine.cpp	/^         int x;$/;"	m	struct:Point	file:
+y	149MaxPointsOnALine.cpp	/^         int y;$/;"	m	struct:Point	file:
