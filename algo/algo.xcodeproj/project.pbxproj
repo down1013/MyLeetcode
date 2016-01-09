@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		061C30FC1C1B24F400ECD5DC /* 58LengthOfLastWord.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 061C30FB1C1B24F400ECD5DC /* 58LengthOfLastWord.cpp */; };
+		060EC6171C41B1F70030507C /* 304RangeSumQueryII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 060EC6161C41B1F70030507C /* 304RangeSumQueryII.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		061C30FB1C1B24F400ECD5DC /* 58LengthOfLastWord.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 58LengthOfLastWord.cpp; path = algo/58LengthOfLastWord.cpp; sourceTree = "<group>"; };
+		060EC6161C41B1F70030507C /* 304RangeSumQueryII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 304RangeSumQueryII.cpp; path = algo/304RangeSumQueryII.cpp; sourceTree = "<group>"; };
 		06BC6D9C1BC127A20082CB0D /* algo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algo; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		06BC6D931BC127A20082CB0D = {
 			isa = PBXGroup;
 			children = (
-				061C30FB1C1B24F400ECD5DC /* 58LengthOfLastWord.cpp */,
+				060EC6161C41B1F70030507C /* 304RangeSumQueryII.cpp */,
 				06BC6D9E1BC127A20082CB0D /* algo */,
 				06BC6D9D1BC127A20082CB0D /* Products */,
 			);
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				061C30FC1C1B24F400ECD5DC /* 58LengthOfLastWord.cpp in Sources */,
+				060EC6171C41B1F70030507C /* 304RangeSumQueryII.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
