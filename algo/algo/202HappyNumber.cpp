@@ -20,24 +20,36 @@
 using namespace std;
 
 bool isHappy(int n) {
-    unordered_set<int> myset;
-    while(1)
-    {
-        int sum=0;
-        while(n)
-        {
-            sum+=(n%10)*(n%10);
-            n/=10;
-        }
-        if(myset.count(sum)) return false;
-        if(sum==1) return true;
-        myset.insert(sum);
-        n=sum;
-    }
     
+    unordered_set<int> myset;
+    
+    while(1)
+        
+    {
+        
+        int sum=0;
+        
+        while(n)
+            
+        {
+            
+            sum+=(n%10)*(n%10);
+            
+            n/=10;
+            
+        }
+        
+        if(myset.count(sum)) return false;
+        
+        if(sum==1) return true;
+        
+        myset.insert(sum);
+        
+        n=sum;
+        
+    }
 }
 
-int main()
-{
-    
+int main(){
+    return 0;
 }

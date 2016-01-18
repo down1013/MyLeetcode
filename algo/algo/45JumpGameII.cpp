@@ -19,22 +19,22 @@
 
 using namespace std;
 
-bool isHappy(int n) {
-    unordered_set<int> myset;
-    while(1)
-    {
-        int sum=0;
-        while(n)
+int canJump(vector<int>& nums) {
+     if(nums.size()==1) return 0;
+    int i=0;
+    int step=0;
+    while(1){
+        step++;
+        int dis=nums[i];
+         if(i+dis>=nums.size()-1) return step;
+        int maxDis=0;
+        int maxIdx=0;
+        for(int j=1;j<=dis;j++)
         {
-            sum+=(n%10)*(n%10);
-            n/=10;
+            if((j+nums[i+j])>=maxDis){maxDis=j+nums[i+j];maxIdx=j;}
         }
-        if(myset.count(sum)) return false;
-        if(sum==1) return true;
-        myset.insert(sum);
-        n=sum;
+        i+=maxIdx;
     }
-    
 }
 
 int main()

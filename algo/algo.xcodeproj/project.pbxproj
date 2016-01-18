@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		060EC6171C41B1F70030507C /* 304RangeSumQueryII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 060EC6161C41B1F70030507C /* 304RangeSumQueryII.cpp */; };
+		0661F7061C4BAA4E00CC5721 /* 203RemoveLinkedListElements.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0661F7051C4BAA4E00CC5721 /* 203RemoveLinkedListElements.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		060EC6161C41B1F70030507C /* 304RangeSumQueryII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 304RangeSumQueryII.cpp; path = algo/304RangeSumQueryII.cpp; sourceTree = "<group>"; };
+		0661F7051C4BAA4E00CC5721 /* 203RemoveLinkedListElements.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 203RemoveLinkedListElements.cpp; path = algo/203RemoveLinkedListElements.cpp; sourceTree = "<group>"; };
 		06BC6D9C1BC127A20082CB0D /* algo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algo; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		06BC6D931BC127A20082CB0D = {
 			isa = PBXGroup;
 			children = (
-				060EC6161C41B1F70030507C /* 304RangeSumQueryII.cpp */,
+				0661F7051C4BAA4E00CC5721 /* 203RemoveLinkedListElements.cpp */,
 				06BC6D9E1BC127A20082CB0D /* algo */,
 				06BC6D9D1BC127A20082CB0D /* Products */,
 			);
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				060EC6171C41B1F70030507C /* 304RangeSumQueryII.cpp in Sources */,
+				0661F7061C4BAA4E00CC5721 /* 203RemoveLinkedListElements.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
